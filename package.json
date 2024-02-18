@@ -1,0 +1,36 @@
+{
+  "name": "autoMining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Buffer": "^0.0.0",
+    "axios": "^1.4.0",
+    "chalk": "^5.3.0",
+    "cheerio": "1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "inquirer": "^9.2.11",
+    "inquirer-file-tree-selection-prompt": "^2.0.5",
+    "inquirer-interrupted-prompt": "^3.0.0",
+    "inquirer-search-list": "^1.2.6",
+    "inquirer-tree-prompt": "^1.1.2",
+    "jquery": "^3.7.0",
+    "lodash": "^4.17.21",
+    "log-update": "^5.0.1",
+    "moment": "^2.29.4",
+    "puppeteer": "^20.7.3",
+    "puppeteer-core": "^20.7.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
