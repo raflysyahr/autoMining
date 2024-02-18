@@ -1,0 +1,3 @@
+
+> install docker
+> pull docker > docker pull flaresolverr/flaresolverr
